@@ -1,0 +1,8 @@
+
+
+Post::create([
+    'title' => 'Judul Pertama',
+    'slug' => 'judul-pertama',
+    'excerpt' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nisi repellendus doloremque ut facere nam quos numquam harum tempore aut.',
+    'body' => '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nisi repellendus doloremque ut facere nam quos numquam harum tempore aut.</p><h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nisi repellendus doloremque ut facere nam quos numquam harum tempore aut.</h5><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nisi repellendus doloremque ut facere nam quos numquam harum tempore aut.</p>'
+])
